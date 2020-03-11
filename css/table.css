@@ -3,4 +3,14 @@ table, th, td {
   margin: 10px;
   border: 1px solid #0040ff;
 
-}
+body{
+	text-align: center;
+	}
+	
+	
+	
+	
+p{
+	color:blue;  
+	text-align: justify;
+	}
